@@ -1,0 +1,26 @@
+body{
+  margin-top: 40px;
+  background-color: #f8f9fa;
+}
+
+h4{
+	margin-bottom: 30px;
+}
+
+footer p{
+  margin-top: 50px;
+  }
+
+.article, .awards, hr{
+  /*max-width: 720px;*/
+  /*margin: auto;*/
+}
+
+li{
+  margin-left: -20px;
+}
+
+.awards-heading{
+  margin-top: 20px;
+  margin-bottom: 20px; 
+}
